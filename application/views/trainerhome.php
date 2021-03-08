@@ -1,0 +1,1 @@
+<h1>Trainer home</h1>
